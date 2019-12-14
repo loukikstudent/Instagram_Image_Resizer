@@ -1,5 +1,5 @@
 # Instagram_Image_Resizer
- In this, there exist a exceutable python program that requires the location of your JPEG folder and will later create and folder called "Instagram" that will be created in the parent directory of your JPEG path. This will only resize your pictures that are vertical (i.e height is more than the widht of the picture) and keep it's detailing but just adds padding to it so that your entire picture fits onto your feed.
+ In this, there exist a exceutable python program that requires the location of your JPEG folder and will later create a folder called "Instagram" that will be created in the parent directory of your JPEG path. This will only resize your pictures that are vertical (i.e height is more than the widht of the picture) and keep it's detailing but just adds padding to it so that your entire picture fits onto your feed.
 
 # How to use
 Step 1) Download the zip of this repository and extract it
