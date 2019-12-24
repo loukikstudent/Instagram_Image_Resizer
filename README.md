@@ -23,5 +23,5 @@ This should create a folder in the parent directory of your folder of JPEGS call
 
 If there is any issues or additions or even appreciation to this project, please let me know. Hope this helps you. 
 
-And if you want to have a look at the script you go through the python script.
+And if you want to have a look at the script you can go through the python script.
 ## Thank you
