@@ -2,7 +2,6 @@ import cv2
 import os
 im_pth = input("Enter path of jpgs\n")
 c=int(input("Enter 0 for black and 255 for white bars\n"))
-#im_pth='L:\Pictures\Kerala\Tweaked\IMG_1487.jpg'
 os.chdir(im_pth)
 l=os.listdir()
 print(l)
